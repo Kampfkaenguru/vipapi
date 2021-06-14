@@ -1,12 +1,9 @@
 {
     "teammember": [
         {
-            "id":"test",
-            "firstName":"Animesh",
-            "lastName":"Roy",
-            "email":"ani@gmail.com",
-            "age":21,
-            "companyId":"1"
+            "id":"Clan-Owner",
+            "uuid":"eca57bfe59b744dfac447fca88cf7cb7",
+            "name":"BuckledAunt7260"
         },
         {
             "id":"2",
