@@ -6,29 +6,40 @@
             "name":"BuckledAunt7260"
         },
         {
-            "id":"2",
-            "firstName":"Rahul",
-            "lastName":"Sharma",
-            "email":"rahul@gmail.com",
-            "age":20,
-            "companyId":"1"
+            "id":"Clan-Mama",
+            "uuid":"258758c85a82466c977c680ec7d3da59",
+            "name":"Lillyv"
         },
         {
-            "id":"3",
-            "firstName":"Mark",
-            "lastName":"Tyson",
-            "email":"lipon21@gmail.com",
-            "age":22,
-            "companyId":"1"
+            "id":"Co-Owner",
+            "uuid":"29dd98b635a64c2f94fa9a9fba603e20",
+            "name":"AlbertSalzstein"
+            
         }, 
         {
-            "id":"4",
-            "firstName":"Saurav",
-            "lastName":"Kumar",
-            "email":"saurav@gmail.com",
-            "age":24,
-            "companyId":"1"
+            "id":"Co-Owner | Dev",
+            "uuid":"717fce1cdd5849e19d740f718ec8a783",
+            "name":"KampfkaenguruLP"
+            
         }
+        {
+            "id":"Assi-Supporter",
+            "uuid":"1ec2451ba3944612ad4a29d4bf73294c",
+            "name":"OliveAlpaca9596"
+            
+        },
+        {
+            "id":"Supporter",
+            "uuid":"c90cd2d083db4ce29a34a3d09bdf2c1a",
+            "name":"Realfuffi"
+            
+        },
+        {
+            "id":"Moderator",
+            "uuid":"b0fe41f597f2442ca686874cbe2f1a55 ; be1e9295b6cd4fe1b15dbc5e5fb5476e",
+            "name":"xXGizzlyBearXx ; Hunting_Time_"
+            
+        },
    
         ]
 }
